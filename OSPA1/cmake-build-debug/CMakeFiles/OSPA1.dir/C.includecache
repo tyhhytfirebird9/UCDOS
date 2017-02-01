@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chris/Documents/OS/OSPA1/treedemo.c
+wordtree.h
+/Users/chris/Documents/OS/OSPA1/wordtree.h
+
+/Users/chris/Documents/OS/OSPA1/wordtree.c
+wordtree.h
+/Users/chris/Documents/OS/OSPA1/wordtree.h
+
+/Users/chris/Documents/OS/OSPA1/wordtree.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+
