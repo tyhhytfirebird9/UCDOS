@@ -6,8 +6,7 @@
 
 NodeT newNode(char* data) {
     NodeT node = malloc(sizeof(struct node));
-    memcpy(node->wordMem, data, sizeof(node->wordMem));
-    node->word = node->wordMem;
+    node->word = strcpy(malloc(strlen(data)+1), data);
     node->count = 1;
     node->left = NULL;
     node->right = NULL;

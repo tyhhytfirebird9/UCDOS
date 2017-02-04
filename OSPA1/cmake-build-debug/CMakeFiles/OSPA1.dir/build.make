@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/chris/Documents/OS/OSPA1
+CMAKE_SOURCE_DIR = /Users/chris/Documents/UCDOS/UCDOS/OSPA1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/chris/Documents/OS/OSPA1/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/chris/Documents/UCDOS/UCDOS/OSPA1/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/OSPA1.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/OSPA1.dir/flags.make
 
 CMakeFiles/OSPA1.dir/treedemo.c.o: CMakeFiles/OSPA1.dir/flags.make
 CMakeFiles/OSPA1.dir/treedemo.c.o: ../treedemo.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chris/Documents/OS/OSPA1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/OSPA1.dir/treedemo.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/OSPA1.dir/treedemo.c.o   -c /Users/chris/Documents/OS/OSPA1/treedemo.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chris/Documents/UCDOS/UCDOS/OSPA1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/OSPA1.dir/treedemo.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/OSPA1.dir/treedemo.c.o   -c /Users/chris/Documents/UCDOS/UCDOS/OSPA1/treedemo.c
 
 CMakeFiles/OSPA1.dir/treedemo.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/OSPA1.dir/treedemo.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/chris/Documents/OS/OSPA1/treedemo.c > CMakeFiles/OSPA1.dir/treedemo.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/chris/Documents/UCDOS/UCDOS/OSPA1/treedemo.c > CMakeFiles/OSPA1.dir/treedemo.c.i
 
 CMakeFiles/OSPA1.dir/treedemo.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OSPA1.dir/treedemo.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/chris/Documents/OS/OSPA1/treedemo.c -o CMakeFiles/OSPA1.dir/treedemo.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/chris/Documents/UCDOS/UCDOS/OSPA1/treedemo.c -o CMakeFiles/OSPA1.dir/treedemo.c.s
 
 CMakeFiles/OSPA1.dir/treedemo.c.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/OSPA1.dir/treedemo.c.o.provides.build: CMakeFiles/OSPA1.dir/treedemo.
 
 CMakeFiles/OSPA1.dir/wordtree.c.o: CMakeFiles/OSPA1.dir/flags.make
 CMakeFiles/OSPA1.dir/wordtree.c.o: ../wordtree.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chris/Documents/OS/OSPA1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/OSPA1.dir/wordtree.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/OSPA1.dir/wordtree.c.o   -c /Users/chris/Documents/OS/OSPA1/wordtree.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chris/Documents/UCDOS/UCDOS/OSPA1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/OSPA1.dir/wordtree.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/OSPA1.dir/wordtree.c.o   -c /Users/chris/Documents/UCDOS/UCDOS/OSPA1/wordtree.c
 
 CMakeFiles/OSPA1.dir/wordtree.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/OSPA1.dir/wordtree.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/chris/Documents/OS/OSPA1/wordtree.c > CMakeFiles/OSPA1.dir/wordtree.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/chris/Documents/UCDOS/UCDOS/OSPA1/wordtree.c > CMakeFiles/OSPA1.dir/wordtree.c.i
 
 CMakeFiles/OSPA1.dir/wordtree.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OSPA1.dir/wordtree.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/chris/Documents/OS/OSPA1/wordtree.c -o CMakeFiles/OSPA1.dir/wordtree.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/chris/Documents/UCDOS/UCDOS/OSPA1/wordtree.c -o CMakeFiles/OSPA1.dir/wordtree.c.s
 
 CMakeFiles/OSPA1.dir/wordtree.c.o.requires:
 
@@ -117,7 +117,7 @@ OSPA1: CMakeFiles/OSPA1.dir/treedemo.c.o
 OSPA1: CMakeFiles/OSPA1.dir/wordtree.c.o
 OSPA1: CMakeFiles/OSPA1.dir/build.make
 OSPA1: CMakeFiles/OSPA1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/chris/Documents/OS/OSPA1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable OSPA1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/chris/Documents/UCDOS/UCDOS/OSPA1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable OSPA1"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/OSPA1.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -135,6 +135,6 @@ CMakeFiles/OSPA1.dir/clean:
 .PHONY : CMakeFiles/OSPA1.dir/clean
 
 CMakeFiles/OSPA1.dir/depend:
-	cd /Users/chris/Documents/OS/OSPA1/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/chris/Documents/OS/OSPA1 /Users/chris/Documents/OS/OSPA1 /Users/chris/Documents/OS/OSPA1/cmake-build-debug /Users/chris/Documents/OS/OSPA1/cmake-build-debug /Users/chris/Documents/OS/OSPA1/cmake-build-debug/CMakeFiles/OSPA1.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/chris/Documents/UCDOS/UCDOS/OSPA1/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/chris/Documents/UCDOS/UCDOS/OSPA1 /Users/chris/Documents/UCDOS/UCDOS/OSPA1 /Users/chris/Documents/UCDOS/UCDOS/OSPA1/cmake-build-debug /Users/chris/Documents/UCDOS/UCDOS/OSPA1/cmake-build-debug /Users/chris/Documents/UCDOS/UCDOS/OSPA1/cmake-build-debug/CMakeFiles/OSPA1.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/OSPA1.dir/depend
 

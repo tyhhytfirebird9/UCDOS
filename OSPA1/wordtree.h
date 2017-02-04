@@ -14,7 +14,6 @@ typedef struct node* NodeT;
 
 struct node {
     char* word;
-    char wordMem[64];
     int count;
     NodeT left, right;
 };

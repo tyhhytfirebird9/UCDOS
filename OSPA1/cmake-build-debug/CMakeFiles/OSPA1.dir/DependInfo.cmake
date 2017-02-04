@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/chris/Documents/OS/OSPA1/treedemo.c" "/Users/chris/Documents/OS/OSPA1/cmake-build-debug/CMakeFiles/OSPA1.dir/treedemo.c.o"
-  "/Users/chris/Documents/OS/OSPA1/wordtree.c" "/Users/chris/Documents/OS/OSPA1/cmake-build-debug/CMakeFiles/OSPA1.dir/wordtree.c.o"
+  "/Users/chris/Documents/UCDOS/UCDOS/OSPA1/treedemo.c" "/Users/chris/Documents/UCDOS/UCDOS/OSPA1/cmake-build-debug/CMakeFiles/OSPA1.dir/treedemo.c.o"
+  "/Users/chris/Documents/UCDOS/UCDOS/OSPA1/wordtree.c" "/Users/chris/Documents/UCDOS/UCDOS/OSPA1/cmake-build-debug/CMakeFiles/OSPA1.dir/wordtree.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

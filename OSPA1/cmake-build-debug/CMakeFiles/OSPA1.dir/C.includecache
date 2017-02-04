@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/Users/chris/Documents/OS/OSPA1/treedemo.c
+/Users/chris/Documents/UCDOS/UCDOS/OSPA1/treedemo.c
 wordtree.h
-/Users/chris/Documents/OS/OSPA1/wordtree.h
+/Users/chris/Documents/UCDOS/UCDOS/OSPA1/wordtree.h
 
-/Users/chris/Documents/OS/OSPA1/wordtree.c
+/Users/chris/Documents/UCDOS/UCDOS/OSPA1/wordtree.c
 wordtree.h
-/Users/chris/Documents/OS/OSPA1/wordtree.h
+/Users/chris/Documents/UCDOS/UCDOS/OSPA1/wordtree.h
 
-/Users/chris/Documents/OS/OSPA1/wordtree.h
+/Users/chris/Documents/UCDOS/UCDOS/OSPA1/wordtree.h
 stdio.h
 -
 stdlib.h
